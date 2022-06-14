@@ -10,7 +10,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-  width: 0px;
+  width: 10px;
 }
 
 .right-arrow,
