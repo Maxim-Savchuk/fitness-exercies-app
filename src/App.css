@@ -10,7 +10,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 0;
 }
 
 .right-arrow,
@@ -32,7 +32,7 @@ body {
   transition: 0.3s all ease-in-out;
 }
 
-.right-arrow {
+.left-arrow {
   right: 140px;
 }
 
